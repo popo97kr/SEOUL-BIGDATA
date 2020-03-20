@@ -8,5 +8,7 @@
 
 
     - [2018서울시빅캠상시공모전]_[권투]_분석결과서 .pdf : 실제 제출자료</li>
-    - data_preprocessing.R : data전처리</li>
-    - kmeans.ipynb : kmeans clustering, PCA 구현</li>
+    - data_preprocessing.R : data전처리
+    - kmeans.ipynb : kmeans clustering, PCA 구현
+
+  - Tools Used : Python, R, QGIS
